@@ -14,12 +14,12 @@ PUB /broadcaster/browser-source/create
 
 ### Message Data
 
-| key    | type    | description                     |
-| ------ | ------- | ------------------------------- |
-| name   | string  | ソース名                        |
-| url    | string  | Web ページの URL                |
-| width  | integer | Browser Source の横幅ピクセル数 |
-| height | integer | Browser Source の高さピクセル数 |
+| key    | type    | optional | default | description                     |
+| ------ | ------- | -------- | ------- | ------------------------------- |
+| name   | string  | -        | -       | ソース名                        |
+| url    | string  | -        | -       | Web ページの URL                |
+| width  | integer | yes      | 800     | Browser Source の横幅ピクセル数 |
+| height | integer | yes      | 600     | Browser Source の高さピクセル数 |
 
 ### メッセージ例
 
