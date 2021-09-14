@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'usukawa',
   tagline: 'OBS向けオーバーレイシステム',
-  url: 'https://oshiteku.app/usukawa-docs/',
-  baseUrl: '/',
+  url: 'https://oshiteku.app/',
+  baseUrl: '/usukawa-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
