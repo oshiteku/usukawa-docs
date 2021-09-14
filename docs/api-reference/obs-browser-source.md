@@ -25,7 +25,7 @@ PUB /broadcaster/browser-source/create
 
 ```json
 {
-  "topic": "broadcaster/browser-source/add",
+  "topic": "broadcaster/browser-source/create",
   "type": "message",
   "data": {
       "name": "example browser source",
