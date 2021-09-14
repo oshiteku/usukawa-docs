@@ -22,13 +22,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/oshiteku/usukawa-docs/edit/main/docs/',
+          editUrl: 'https://github.com/oshiteku/usukawa-docs/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/oshiteku/usukawa-docs/edit/main/blog/',
+          editUrl: 'https://github.com/oshiteku/usukawa-docs/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -51,7 +50,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'チュートリアル',
+            label: 'ドキュメント',
           },
           {to: '/blog', label: 'ブログ', position: 'left'},
           {
@@ -68,7 +67,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'ドキュメント',
             items: [
               {
-                label: 'チュートリアル',
+                label: '配信者向けガイド',
                 to: '/docs/intro',
               },
             ],
