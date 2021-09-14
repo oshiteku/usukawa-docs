@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkusukawa_docs=self.webpackChunkusukawa_docs||[]).push([[779],{3130:function(s){s.exports=JSON.parse('{"allTagsPath":"/usukawa-docs/blog/tags","slug":"/usukawa-docs/blog/tags/\u304a\u77e5\u3089\u305b","name":"\u304a\u77e5\u3089\u305b","count":1,"permalink":"/usukawa-docs/blog/tags/\u304a\u77e5\u3089\u305b"}')}}]);

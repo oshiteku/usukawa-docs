@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkusukawa_docs=self.webpackChunkusukawa_docs||[]).push([[64],{4082:function(a){a.exports=JSON.parse('{"allTagsPath":"/usukawa-docs/blog/tags","slug":"/usukawa-docs/blog/tags/usukawa","name":"usukawa","count":1,"permalink":"/usukawa-docs/blog/tags/usukawa"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkusukawa_docs=self.webpackChunkusukawa_docs||[]).push([[535],{5641:function(s){s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u521d\u6295\u7a3f","permalink":"/usukawa-docs/blog/first-blog-post"}]}')}}]);

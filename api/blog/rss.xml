@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>usukawa Blog</title>
+        <link>https://oshiteku.app/usukawa-docs/blog</link>
+        <description>usukawa Blog</description>
+        <lastBuildDate>Tue, 14 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[初投稿]]></title>
+            <link>https://oshiteku.app/usukawa-docs/blog/first-blog-post</link>
+            <guid>first-blog-post</guid>
+            <pubDate>Tue, 14 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[ブログのテスト]]></description>
+        </item>
+    </channel>
+</rss>
