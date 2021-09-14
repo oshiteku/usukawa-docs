@@ -50,7 +50,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'チュートリアル',
+            label: 'ドキュメント',
           },
           {to: '/blog', label: 'ブログ', position: 'left'},
           {
