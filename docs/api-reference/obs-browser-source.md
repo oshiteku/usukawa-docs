@@ -12,12 +12,14 @@ sidebar_position: 2
 PUB /broadcaster/browser-source/create
 ```
 
-### Message
+### Message Data
 
-| key       | type   | description       |
-| --------- | ------ | ----------------- |
-| data.name | string | Browser Source 名 |
-| data.url  | string | Web ページの URL  |
+| key    | type    | description                     |
+| ------ | ------- | ------------------------------- |
+| name   | string  | ソース名                        |
+| url    | string  | Web ページの URL                |
+| width  | integer | Browser Source の横幅ピクセル数 |
+| height | integer | Browser Source の高さピクセル数 |
 
 ### メッセージ例
 
